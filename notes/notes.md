@@ -21,7 +21,7 @@ ___
 1. Execute o ssh agent
 >`eval $(ssh-agent -s)`
 2. Adicione a chave privada ao ssh agent
->`ssh-add <chave_privada.pub>`
+>`ssh-add <nome_da_chave_privada>`
 3. Digite a senha
 4. Chaves configuradas! :tada:
 
